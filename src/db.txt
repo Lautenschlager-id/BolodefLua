@@ -1,0 +1,82 @@
+{
+	["hey"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+	["yw"] = {
+		[1] = "o/",
+		[2] = "yay",
+	},
+	["howdy"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+	["bot"] = {
+		[1] = "BolodefLua, sir.",
+	},
+	["barbara"] = {
+		[1] = "barbara who?",
+	},
+	["barbara monique santos ferreira"] = {
+		[1] = "amor da vida do criador do bot ❤",
+	},
+	["❤"] = {"❤","SZ","S2"},
+	["no"] = {
+		[1] = "oh so what",
+	},
+	["hallo"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+	["hello"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+	["oi"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+	["heya"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+	["add"] = {
+		[1] = "no",
+	},
+	["bolo"] = {
+		[1] = "defchoco",
+		[2] = "bolo de chocolate?",
+	},
+	["hi"] = {
+		[1] = "hello",
+		[2] = "hallo",
+		[3] = "hey",
+		[4] = "heya",
+		[5] = "howdy",
+		[6] = "oi",
+	},
+}
